@@ -1,0 +1,33 @@
+.heroimage{
+
+ 
+  background-image: url("../img/images (15).jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-div{
+    max-width:100rem;
+    height: 530px;
+
+}
+.card-one{
+    background-image: url("../img/images (16).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-two{
+    background-image: url("../img/images (17).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-three{
+    background-image: url("../img/download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-four{
+    background-image: url("../img/1000_F_228876249_pfyLC3Kn976HOyHgzlQ5L2oH4CcYYMyD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

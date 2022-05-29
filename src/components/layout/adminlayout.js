@@ -11,7 +11,8 @@ return(
               <SideBar cname="text-center">
                   <span className="block text-lg shadow-lg">Admin Panel</span>
                   <ol>
-                    <li>
+                    <li></li>
+                    
 
                   </ol>
               </SideBar>

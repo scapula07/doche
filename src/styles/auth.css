@@ -1,0 +1,20 @@
+.authImg{
+
+ 
+    background-image: url("../img/images (44) (3).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+  }
+
+  .authImg-two{
+
+ 
+    background-image: url("../img/images (44) (2).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+  }
+  
